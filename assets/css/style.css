@@ -1,0 +1,27 @@
+
+
+header{
+    background-color: #030303;
+    height: 65px;
+  }
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.headingtext {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 24px;
+    color: #f3f3f3;    
+}
+
+.centerbox {
+    height: 200px;
+    width: 960px;
+    background-color: #ffffff;
+    border: #797979 15px solid;
+    margin: auto;
+    padding-top: 5px;
+    padding-left: 25px;
+  }
