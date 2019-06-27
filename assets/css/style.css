@@ -25,3 +25,29 @@ header{
     padding-top: 5px;
     padding-left: 25px;
   }
+
+  .crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+
+  .crystal{
+  border:1px solid green;
+  height:200px;
+  width:200px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  transition: 
+  }
+.crystal:hover{
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  transition: box-shadow 1s
+}
+
+  img{ 
+    height: 150px;
+  }
+  
